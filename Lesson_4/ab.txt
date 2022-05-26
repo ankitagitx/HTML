@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Get Your hands Dirty!</title>
+</head>
+<body>
+	<h1>Forms,Tables,&amp Special Characters!</h1>
+	<br><br>
+	<p>This is a web page all about HTML forms,tables &amp special characters.</p>
+	<br><br>
+	<h2>Here is some tabular data</h2>
+	<br><br>
+	<table>
+		<tr>
+			<th>Name</th>
+			<th>Email</th>
+			<th>Gender</th>
+		</tr>
+		<tr>
+			<td>Kyle</td>
+			<td>kyle@email.com</td>
+			<td>Male</td>
+		</tr>
+		<tr>
+			<td>Sara</td>
+			<td>sara@email.com</td>
+			<td>Female</td>
+		</tr>
+		<tr>
+			<td>Bret</td>
+			<td>bret@email.com</td>
+			<td>Male</td>
+		</tr>
+	</table>
+	<br><br>
+	<h2>Add your info to this table(not really)</h2>
+	<form>
+	<.
+	</form>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+</body>
+</html>
